@@ -33,6 +33,7 @@ class MainActivity : ComponentActivity() {
                 composable(Routes.INFO) {
                     InfoScreen(navController)
                 }
+
             }
         }
     }
