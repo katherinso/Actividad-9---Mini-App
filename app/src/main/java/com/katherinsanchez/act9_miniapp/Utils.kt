@@ -7,7 +7,7 @@ object Utils {
     }
 
     fun getGreeting(name: String): String {
-        return "Hola $name"
+        return "Hello $name"
     }
 
 }
